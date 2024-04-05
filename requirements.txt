@@ -1,7 +1,9 @@
 tensorflow
+streamlit-extras
 streamlit
 transformers
 torch
+hydralit_components
 pillow
+streamlit_option_menu
 zipfile36
-
